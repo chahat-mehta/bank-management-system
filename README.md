@@ -1,1 +1,1 @@
-# bank-management-system
+# dsa qus with c
